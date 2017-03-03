@@ -2,7 +2,7 @@
 
 Welcome to my Sample Project
 
-Copyright @ vmummadi
+Copyright @ vmummadi2011
 
 ## Description
 
